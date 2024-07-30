@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlperCirak
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Python and Machine Learning
+- 👀 I’m interested in Data Science,Statisticsc,Math.
+- 🌱 I’m currently learning Python,SQL and Machine Learning.
 - 💞️ I’m looking to collaborate on data companys.
 - 📫 How to reach me 
 - 😄 Pronouns: ...
